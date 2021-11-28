@@ -81,10 +81,12 @@ main, .content {
     position: relative;
 }
 .banner {
-    width: 100%;
+    width: 100%!important;
     margin-bottom: 50px;
 }
-
+.img {
+    width: 100%;
+}
 .texto-destaque {
     text-align: center;
 }
@@ -176,10 +178,12 @@ h3 {
 .footer-3 {
     margin: 10px 470px;
     height: 20px;
-    width: 980;
-        
+    width: 980;     
 }
-
+.contato {
+    margin-top: 60px;
+    line-height: 1;
+}
 .redes-sociais-2 ul li {
     margin-left: 25px;
     display: inline-block;
@@ -191,8 +195,18 @@ h3 {
     text-align: center;
     width: 48%;
 }
+.inframe {
+    width: 50%;
+    height: 200px;
+    margin: 20px;
+}
 .footer-4 {
     text-align: center;
     margin-top: 30px;
-      
+ 
+}
+
+.form {
+    margin: 50px 50px;
+    padding: 20px;
 }
