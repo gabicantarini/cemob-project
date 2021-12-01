@@ -7,3 +7,4 @@ function validaformulario(){
     alert("Por favor, preencha os campos de nome e email.")
   }
 }
+//criar novo cadastro
