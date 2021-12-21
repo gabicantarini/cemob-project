@@ -23,25 +23,6 @@
 
 
 
-.menu ul li:hover {
-    border-bottom: 3px solid #a87a84;
-}
-
-.menu ul li a:hover {
-    color: #a87a84;
-    
-}
-
-.menu ul li a {
-    color: #8b8b8b;
-    text-decoration: none;
-    font-size: 18px;
-    text-transform: uppercase;
-}
-.menu {
-    width: 100%;
-    float: left;
-}
 .col-100 {
     width: 100%;
     float: left;
@@ -102,9 +83,9 @@
 h3 {
     font-weight: bold!important;
 }
+
 .col-4 {
     float: left;
-    margin-left: 30px;
     width: 30%;
     text-align: center;
 }
@@ -112,15 +93,12 @@ h3 {
     cursor: pointer;
     margin: 0 auto;    
 }
-.col-4 img:hover {
-    margin-top: 10px!important;
-    position: relative!important;
-}
-.bloco-logos{
-    height: 170px;
-}
+
+
 .bloco-logos img{
     margin-top: 50px;
+    margin-bottom: 50px;
+
 }
 .footer h3 {
     text-align: left;
@@ -170,14 +148,5 @@ h3 {
     height: 200px;
     margin: 20px;
 }
-.footer-4 {
-    text-align: center;
-    margin-top: 30px;
-    margin-bottom: 10px;
- 
-}
 
-.form {
-    margin: 50px 50px;
-    padding: 20px;
-}
+
