@@ -1,5 +1,4 @@
 
-
 .icons-bar {
     background-color: #a87a84;
 }
@@ -7,8 +6,7 @@
     color: #8b8b8b;
 }
 .menu ul li a:hover {
-    color: #a87a84;
-    
+    color: #a87a84;  
 }
 .logo {
    /*float: left;
@@ -21,67 +19,20 @@
     margin: 0 auto;
 }
 
-
-
 .col-100 {
     width: 100%;
     float: left;
     position: relative;
 }
 
-.texto-destaque {
-    text-align: center;
-}
-.texto-destaque strong {
-    color: #646464;
-}
-.texto-destaque h1 {
-    text-transform: uppercase;
-    font-size: 30px;
-    color: #818181;
-}
-.texto-destaque p {
-    font-size: 15px;
-    color: #9a9a9a;
-}
-.col-3 {
-    text-align: center;
-    margin-top: 10px;
-    padding-left: 15px;
-    padding-right: 15px; 
-    width: 29%;
-    float: left;
-    position: relative;
-}
 .card-largura {
     width: 18rem;
-  }
+}
   /*alinhar a altura das imagens.*/
   .card-imagem-posicao {
     height:200px;
     object-fit:cover;
     object-position: 0 60%;
-  }
-.bloco-imagem img {
-    margin: 10px auto;
-    width: 100%;
-    height: auto;
-}
-.bloco-imagem {
-    height: 300px;
-    border: 1px solid #c5c5c5;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    margin-left: 10px;
-}
-.bloco-imagem b, p {
-    text-align: center;
-}
-.bloco-texto {
-    margin-top: 3em;
-}
-h3 {
-    font-weight: bold!important;
 }
 
 .col-4 {
@@ -94,14 +45,9 @@ h3 {
     margin: 0 auto;    
 }
 
-
 .bloco-logos img{
     margin-top: 50px;
     margin-bottom: 50px;
-
-}
-.footer h3 {
-    text-align: left;
 }
 
 .footer {
@@ -113,25 +59,9 @@ h3 {
     background-color: #a87a84;
     color: #c1c1c1;
     height: 90px;
+    text-align: center;
 }
 
-.footer p {
-    width: 90%;
-    text-align: left;
-}
-
-.footer-2 p {
-    padding: 10px;
-}
-.footer-3 {
-    margin: 10px 470px;
-    height: 20px;
-    width: 980;     
-}
-.contato {
-    margin-top: 60px;
-    line-height: 1;
-}
 .redes-sociais-2 ul li {
     margin-left: 25px;
     display: inline-block;
@@ -143,10 +73,6 @@ h3 {
     text-align: center;
     width: 48%;
 }
-.inframe {
-    width: 50%;
-    height: 200px;
-    margin: 20px;
-}
+
 
 
