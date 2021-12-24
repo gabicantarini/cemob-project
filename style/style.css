@@ -2,21 +2,17 @@
 .icons-bar {
     background-color: #a87a84;
 }
-.menu {
-    color: #8b8b8b;
+
+    /*color: #8b8b8b;*/
+.linha {
+    color: #a87a84 !important;  
 }
 .menu ul li a:hover {
     color: #a87a84;  
 }
 .logo {
-   /*float: left;
-    padding: 0px;
-    width: 70%;
-    height: 50px;*/
-
-    position: relative;
-    width: 990px;
-    margin: 0 auto;
+    width: 850%;
+    height: 30px;
 }
 
 .col-100 {
@@ -51,8 +47,8 @@
 }
 
 .footer {
-
     background: #9c6671;
+    color: #c1c1c1;
 }
 
 .footer-2 {
